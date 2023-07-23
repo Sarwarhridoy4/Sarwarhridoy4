@@ -1,5 +1,9 @@
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
 
+
+<script src=“https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js”></script><lottie-player src=“https://lottie.host/33a9caf5-d7c8-49c2-a269-9254e86e1728/joSZ8JbTYf.json” background=“#fff” speed=“1” style=“width: 300px; height: 300px” loop controls autoplay direction=“1” mode=“normal”></lottie-player>
+
+
 <h1 align="center">Hi 👋, I'm Sarwar Hossain</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
 
