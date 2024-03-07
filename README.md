@@ -35,8 +35,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarwarhridoy4&" alt="sarwarhridoy4" /></p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarwarhridoy4&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarwarhridoy4&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarwarhridoy4&theme=darcula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarwarhridoy4&theme=darcula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarwarhridoy4&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sarwarhridoy4&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarwarhridoy4&theme=github_dark)
+
 
