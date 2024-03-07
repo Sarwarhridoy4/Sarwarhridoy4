@@ -30,6 +30,9 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarwarhridoy4&show_icons=true&locale=en&layout=compact" alt="sarwarhridoy4" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarwarhridoy4&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sarwarhridoy4&show_icons=true&locale=en" alt="sarwarhridoy4" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarwarhridoy4&" alt="sarwarhridoy4" />
