@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://i.ibb.co/SQKYYwF/Sarwar-Hossain-1.gif" alt="Sarwar Hossain Animation" style="max-width: 100%; border-radius: 10px;" />
+  <img src="./assets/Sarwar Hossain.gif" alt="Sarwar Hossain Animation" style="max-width: 100%; border-radius: 10px;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Sarwar Hossain</h1>
