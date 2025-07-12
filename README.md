@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Sarwar Hossain</h1>
-<h3 align="center">Full Stack MERN Developer | React Native Enthusiast</h3>
+<h3 align="center">Full Stack MERN Developer | React Native & Python Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarwarhridoy4&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,11 +14,11 @@
 <details open>
 <summary><strong>🌟 About Me</strong></summary>
 
-🚀 Full Stack Developer with **3+ years of experience** building robust and scalable web applications using React.js, Next.js, and the MERN stack. I specialize in responsive UI design, clean and modular codebases, RESTful APIs, and scalable deployments.
+🚀 Full Stack Developer with **3+ years of experience** building scalable web & mobile apps using React.js, React Native, Next.js, MERN stack, and Python. Skilled in clean architecture, responsive UI, performance optimization, and cross-platform development.
 
-🔧 Passionate about performance, UI consistency, and contributing to open-source platforms. Always learning, always shipping.
+🔧 Committed to writing modular code, delivering robust features, and contributing to open-source. Always learning and shipping.
 
-- 👨‍💻 **Portfolio Website**: [sarwar-hossain-vert.vercel.app](https://sarwar-hossain-vert.vercel.app)
+- 👨‍💻 **Portfolio**: [sarwar-hossain-vert.vercel.app](https://sarwar-hossain-vert.vercel.app)
 - 📫 **Email**: [sarwarhridoy4@gmail.com](mailto:sarwarhridoy4@gmail.com)
 - 📄 **Resume**: [View Resume](https://drive.google.com/file/d/1A3Go9SF16olXwTZusTeGi4wWDyy6kYGk/view?usp=share_link)
 
@@ -29,25 +29,26 @@
 <details open>
 <summary><strong>📂 Featured Projects</strong></summary>
 
-### 🔹 [German Ostad – Course Platform (LMS)](https://course.germanostad.com/)
-**MERN | TypeScript | Next.js | JWT | Tailwind CSS**  
-➤ Built full LMS with student dashboard, admin panel, and authentication  
-➤ Deployed on Hostinger VPS with optimized schemas and monitoring  
+### 🔹 [German Ostad – Course Platform (LMS)](https://course.germanostad.com/)  
+**MERN | TypeScript | Next.js | JWT | Tailwind**  
+- Full LMS with student/admin dashboards and authentication  
+- Deployed on Hostinger VPS with schema optimization  
 
 ### 🔹 [German Ostad – Main Website](https://www.germanostad.com/)  
 **Next.js | Tailwind CSS**  
-➤ Clean, modular architecture with SEO best practices  
-➤ Fast, responsive homepage for an ed-tech brand  
+- SEO-optimized, modular, responsive ed-tech homepage  
 
-### 🔹 [E-PathShala – Online Education Hub](https://e-pathshala-authentication.web.app/)  
+### 🔹 [E‑PathShala – Online Education Hub](https://e-pathshala-authentication.web.app/)  
 **React | Firebase | MongoDB | Express**  
-➤ Video course platform with secure lifetime access  
-➤ Focused on modular components and reusability  
+- Video course platform with secure, reusable components  
 
 ### 🔹 [Thrivext (Open Source)](https://thrivext.vercel.app/)  
 **MERN | MDX | MermaidJS**  
-➤ Contributor to full-stack documentation site  
-➤ Built diagrams, maintained PRs, and enforced clean code  
+- Documentation site contribution, diagram support, code reviews  
+
+### 🔹 **QShare – Local File Sharing App**  
+**Python | PyQt6 | TCP/UDP Sockets**  
+- Peer-to-peer LAN file sharing with device discovery, theming, progress bars, retry logic :contentReference[oaicite:1]{index=1}
 
 </details>
 
@@ -57,21 +58,11 @@
 <summary><strong>🤝 Connect with Me</strong></summary>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarwar-hridoy4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/19937858/sarwar-hossain" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40" width="40" />
-  </a>
-  <a href="https://www.facebook.com/sarwarhridoy4/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" />
-  </a>
-  <a href="https://www.instagram.com/sarwarhridoy04/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://discord.gg/Sarwar Hossain#4107" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/sarwar-hridoy4/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a>
+  <a href="https://stackoverflow.com/users/19937858/sarwar-hossain" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="40" width="40" /></a>
+  <a href="https://www.facebook.com/sarwarhridoy4/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/sarwarhridoy04/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" /></a>
+  <a href="https://discord.gg/Sarwar Hossain#4107" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" width="40" /></a>
 </p>
 
 </details>
@@ -98,7 +89,10 @@
   <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" /></a>
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" /></a>
 
-  <!-- Tools -->
+  <!-- Python -->
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" /></a>
+
+  <!-- Tools & OS -->
   <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" /></a>
   <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" /></a>
   <a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="50" /></a>
@@ -115,7 +109,7 @@
 <summary><strong>🏆 GitHub Trophies</strong></summary>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarwarhridoy4&theme=juicyfresh" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sarwarhridoy4&theme=juicyfresh" />
 </div>
 
 </details>
