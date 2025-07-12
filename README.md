@@ -46,9 +46,27 @@
 **MERN | MDX | MermaidJS**  
 - Documentation site contribution, diagram support, code reviews  
 
-### 🔹 **QShare – Local File Sharing App**  
-**Python | PyQt6 | TCP/UDP Sockets**  
-- Peer-to-peer LAN file sharing with device discovery, theming, progress bars, retry logic :contentReference[oaicite:1]{index=1}
+</details>
+
+---
+
+<details open>
+<summary><strong>🐍 Python Projects</strong></summary>
+
+### 🔹 [QShare – Local File Sharing App](https://github.com/Sarwarhridoy4/QShare)  
+**Python | PyQt6 | Sockets | Multithreading**  
+- Fast P2P file sharing with device discovery over LAN  
+- Sleek UI with themes, progress tracking, and retry logic  
+
+### 🔹 [MongoDB Exporter GUI](https://github.com/Sarwarhridoy4/MongoDB-Exporter)  
+**Python | PyQt6 | MongoDB**  
+- Exports collections to JSON with real-time progress tracking  
+- Cross-platform GUI with dark theme and export status logging  
+
+### 🔹 [YouVideo Downloader](https://github.com/Sarwarhridoy4/youvideo-downloader)  
+**Python | PySide6 | yt-dlp | FFmpeg**  
+- Elegant YouTube/video downloader with resolution selector  
+- Includes FFmpeg integration, logs, and theme support  
 
 </details>
 
