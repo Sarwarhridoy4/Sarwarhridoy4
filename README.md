@@ -127,7 +127,7 @@
 <summary><strong>🏆 GitHub Trophies</strong></summary>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarwarhridoy4&theme=juicyfresh" />
+  <img src="https://github-trophies.vercel.app/?username=Sarwarhridoy4&no-bg=true" />
 </div>
 
 </details>
