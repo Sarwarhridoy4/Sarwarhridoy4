@@ -102,6 +102,13 @@ Always learning and shipping.
 - Wallet top-up, send money, withdraw, cash-in/out with commission
 - JWT auth, access/refresh tokens, email reset, KYC verification, account blocking
 
+### 🔹 [Dream Wallet – Frontend](https://dream-wallet-steel.vercel.app/)
+**React | TypeScript | Redux Toolkit | Tailwind CSS**
+- Role-based frontend for digital wallet system with Admin, Agent, and User dashboards
+- Wallet operations: cash-in/out, top-up, send money, transaction history
+- Secure API integration with RTK Query, JWT interceptors, Cloudinary uploads
+- Dark/light theme, toast notifications, loading skeletons, guided tours
+
 ### 🔹 [Express + Prisma MVC Boilerplate](https://github.com/Sarwarhridoy4/demo-prisma-mvc-express)
 **Express.js | TypeScript | Prisma | PostgreSQL**
 - Clean modular MVC boilerplate for scalable Express servers
