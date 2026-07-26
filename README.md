@@ -111,7 +111,7 @@ React • React Native • Next.js • TypeScript • JavaScript • Redux • T
 Node.js • Express.js • MongoDB • Firebase
 
 ### Languages & Tools
-Python • Git • Figma • Linux
+Python • Go • Git • Figma • Linux
 
 </div>
 
