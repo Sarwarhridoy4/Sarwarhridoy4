@@ -42,9 +42,20 @@ Always learning and shipping.
 **React | Firebase | MongoDB | Express**
 - Video course platform with secure, reusable components
 
+### 🔹 [ShelfWise – Library Management System](https://shelf-wise-two.vercel.app/)
+**React | TypeScript | Redux | Tailwind | Node.js | Express | MongoDB**
+- Full-stack library management with catalog browsing, search, filtering, and sorting
+- Borrow/return workflows with automatic stock tracking and real-time availability
+- Borrow summary dashboard, toast notifications, daily Hadith section, modern theme
+- Backend follows modular MVC pattern with Zod validation, Mongoose, and aggregations
+
+### 🔹 [E‑PathShala – Online Education Hub](https://e-pathshala-authentication.web.app/)
+**React | Firebase | MongoDB | Express**
+- Video course platform with secure, reusable components
+
 ### 🔹 [Thrivext (Open Source)](https://thrivext.vercel.app/)
 **MERN | MDX | MermaidJS**
-- Contributed documentation site with diagram support and code reviews
+- Documentation site contribution, diagram support, code reviews
 
 ### 🔹 [QShare – Local File Sharing App](https://github.com/Sarwarhridoy4/QShare)
 **Python | PyQt6 | Sockets | Multithreading**
