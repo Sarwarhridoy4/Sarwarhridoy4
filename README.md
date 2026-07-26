@@ -80,6 +80,12 @@ Always learning and shipping.
 - Wallet top-up, send money, withdraw, cash-in/out with commission
 - JWT auth, access/refresh tokens, email reset, KYC verification, account blocking
 
+### 🔹 [Express + Prisma MVC Boilerplate](https://github.com/Sarwarhridoy4/demo-prisma-mvc-express)
+**Express.js | TypeScript | Prisma | PostgreSQL**
+- Clean modular MVC boilerplate for scalable Express servers
+- Prisma ORM with PostgreSQL, JWT auth, bcrypt, centralized error handling
+- Supports npm, yarn, pnpm, and bun
+
 ### 🔹 [StreamNest – Desktop Media Downloader](https://github.com/Sarwarhridoy4/StreamNest)
 **Python | Flet | yt-dlp**
 - Sleek desktop app for single media and playlist downloads
