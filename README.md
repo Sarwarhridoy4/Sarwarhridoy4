@@ -71,6 +71,13 @@ Always learning and shipping.
 - Google Drive upload, backup scripts, real-time progress, and built-in updater
 - Cross-platform packaging with .deb and AppImage
 
+### 🔹 [Image Optimiser – Upload & Compression API](https://image-compress-upload.vercel.app/)
+**Node.js | Express | TypeScript | MongoDB | Cloudinary | Sharp**
+- Secure image upload API with JWT auth and access/refresh tokens
+- Compresses images to WebP using Sharp for optimal performance
+- Cloudinary integration with Multer upload, Zod validation, Swagger docs
+- Sends welcome emails via Nodemailer with EJS templates
+
 ### 🔹 [YouVideo Downloader](https://github.com/Sarwarhridoy4/youvideo-downloader)
 **Python | PySide6 | yt-dlp | FFmpeg**
 - Elegant YouTube/video downloader with resolution selector
