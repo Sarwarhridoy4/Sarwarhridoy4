@@ -54,8 +54,10 @@ Always learning and shipping.
 - Video course platform with secure, reusable components
 
 ### 🔹 [Thrivext (Open Source)](https://thrivext.vercel.app/)
-**MERN | MDX | MermaidJS**
-- Documentation site contribution, diagram support, code reviews
+**Next.js | Nextra | TypeScript | MDX**
+- Documentation site for Next Level Web Development course materials
+- Organized notes covering JavaScript, React, TypeScript, Node.js, Express, MongoDB, PostgreSQL, Prisma
+- Includes contribution guidelines and modular content structure
 
 ### 🔹 [QShare – Local File Sharing App](https://github.com/Sarwarhridoy4/QShare)
 **Python | PyQt6 | Sockets | Multithreading**
