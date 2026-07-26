@@ -63,9 +63,11 @@ Always learning and shipping.
 - Sleek UI with themes, progress tracking, and retry logic
 
 ### 🔹 [MongoDB Exporter GUI](https://github.com/Sarwarhridoy4/MongoDB-Exporter)
-**Python | PyQt6 | MongoDB**
-- Exports collections to JSON with real-time progress tracking
-- Cross-platform GUI with dark theme and export status logging
+**Python | PySide6 | MongoDB | Cryptography**
+- Exports MongoDB collections to JSON with neumorphic UI and theme switcher
+- Optional Zip compression, AES-GCM encryption, and in-app decryption
+- Google Drive upload, backup scripts, real-time progress, and built-in updater
+- Cross-platform packaging with .deb and AppImage
 
 ### 🔹 [YouVideo Downloader](https://github.com/Sarwarhridoy4/youvideo-downloader)
 **Python | PySide6 | yt-dlp | FFmpeg**
