@@ -114,7 +114,7 @@ Python • Git • Figma • Linux
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarwarhridoy4&show_icons=true&theme=github_dark&locale=en" alt="GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sarwarhridoy4&show_icons=true&theme=github_dark&locale=en" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarwarhridoy4&theme=github-dark" alt="GitHub Streak" />
 </div>
 
