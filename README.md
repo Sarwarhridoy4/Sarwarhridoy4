@@ -3,13 +3,7 @@
 </div>
 
 <h1 align="center">Hi there, I'm Sarwar Hossain 👋</h1>
-<h3 align="center">Hi, I'm Sarwar Hossain 👋
-
-I'm a Full-Stack Software Engineer passionate about building scalable web applications, backend systems, and cross-platform desktop software.
-
-My primary stack includes TypeScript, Node.js, React, Next.js, PostgreSQL, Prisma, MongoDB, Go, and Linux.
-
-I'm currently open to Software Engineer opportunities where I can build reliable products and continue growing as an engineer.</h3>
+<h3 align="center">Full-Stack Software Engineer | TypeScript, React, Node.js, Go & Linux</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sarwarhridoy4&style=flat-square" alt="Profile Views" />
