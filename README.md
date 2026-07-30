@@ -15,9 +15,11 @@
 
 <div align="center">
 
-Full Stack Developer with **3+ years of experience** building scalable web & mobile applications using React.js, React Native, Next.js, MERN stack, and Python. Passionate about clean architecture, responsive UI, performance optimization, and cross-platform development.
+I'm a Full-Stack Software Engineer passionate about building scalable web applications, backend systems, and cross-platform desktop software.
 
-Always learning and shipping.
+My primary stack includes TypeScript, Node.js, React, Next.js, PostgreSQL, Prisma, MongoDB, Go, and Linux.
+
+I'm currently open to Software Engineer opportunities where I can build reliable products and continue growing as an engineer.
 
 - 👨‍💻 **Portfolio**: [sarwar-hossain-vert.vercel.app](https://sarwar-hossain-vert.vercel.app)
 - 📫 **Email**: [sarwarhridoy4@gmail.com](mailto:sarwarhridoy4@gmail.com)
