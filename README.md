@@ -31,14 +31,15 @@ I'm currently open to Software Engineer opportunities where I can build reliable
 
 ## 🕹️ Featured Projects
 
-### 🔹 [German Ostad – Course Platform (LMS)](https://course.germanostad.com/)
-**MERN | TypeScript | Next.js | JWT | Tailwind**
-- Full LMS with student/admin dashboards and secure JWT authentication
-- Deployed on Hostinger VPS with optimized database schema
-
-### 🔹 [German Ostad – Main Website](https://www.germanostad.com/)
-**Next.js | Tailwind CSS**
-- SEO-optimized, modular, responsive ed-tech homepage
+### 🔹 [HimuLingua — German Language Learning & Career Platform](https://himulingua.com/en)
+**Next.js • React • TypeScript • Node.js • Express • MongoDB • REST API • Docker • Linux • Traefik • Cloud Deployment**
+- Full-stack EdTech platform providing German language education and career guidance for learners planning to study, work, train, or build their future in Germany
+- Built structured German learning paths from A1 to C2, online courses, exam prep, workshops, intensive seminars, career coaching, and student evaluation workflows
+- Implemented authentication, user account management, interactive learning and evaluation workflows, and video-based learning capabilities
+- Developed admin functionality for managing courses, users, content, and learning data
+- Built REST APIs and backend services with secure authentication, session management, and protected resources
+- Configured production deployment with domains, HTTPS, Docker, and server infrastructure using Traefik
+- Optimized for performance, reliability, and maintainability with responsive UI/UX for desktop and mobile
 
 ### 🔹 [E‑PathShala – Online Education Hub](https://e-pathshala-authentication.web.app/)
 **React | Firebase | MongoDB | Express**
