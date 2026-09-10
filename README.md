@@ -130,6 +130,14 @@ I'm currently open to Software Engineer opportunities where I can build reliable
 - Rich history for text, images, HTML, and files with search, pinning, tags, categories, and snippets
 - Encrypted local storage, backup/restore, system tray, autostart, auto-update, and theme support
 
+### 🔹 [Mongo Drive Backup](https://github.com/Sarwarhridoy4/mongo-drive-backup)
+**Go | MongoDB | Google Drive API | Docker | Coolify**
+- Production-ready service that periodically backs up MongoDB databases and uploads them to Google Drive
+- Scheduled backups with cron, compression, retention cleanup, and upload verification
+- Built-in web dashboard with real-time WebSocket updates for status, logs, and backup history
+- Supports OAuth 2.0 for personal Gmail and service accounts for Google Workspace shared drives
+- Configurable via environment variables, Docker-ready, with healthchecks and Coolify deployment support
+
 ---
 
 ## 🛠️ Tech Stack
