@@ -21,7 +21,7 @@ My primary stack includes TypeScript, Node.js, React, Next.js, PostgreSQL, Prism
 
 I'm currently open to Software Engineer opportunities where I can build reliable products and continue growing as an engineer.
 
-- 👨‍💻 **Portfolio**: [sarwar-hossain-vert.vercel.app](https://sarwar-hossain-vert.vercel.app)
+- 👨‍💻 **Portfolio**: [[sarwar-hossain-vert.vercel.app](https://sarwar.himulingua.com/)]
 - 📫 **Email**: [sarwarhridoy4@gmail.com](mailto:sarwarhridoy4@gmail.com)
 - 📄 **Resume**: [View Resume](https://drive.google.com/file/d/1A3Go9SF16olXwTZusTeGi4wWDyy6kYGk/view?usp=share_link)
 
